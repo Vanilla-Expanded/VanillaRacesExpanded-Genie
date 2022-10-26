@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<GeneDef ParentName="GeneHealingRateBase">
+		<defName>VRE_WoundHealing_VerySlow</defName>
+		<label>very slow wound healing</label>
+		<labelShortAdj>slowest-heal</labelShortAdj>
+		<description>Carriers of this gene take a very long time to heal from even the most basic wounds.</description>
+		<iconPath>UI/Icons/Genes/VRE_Gene_WoundHealingRateSlowest</iconPath>
+		<displayOrderInCategory>29.9</displayOrderInCategory>
+		<statFactors>
+			<InjuryHealingFactor>0.1</InjuryHealingFactor>
+		</statFactors>
+		<biostatMet>4</biostatMet>
+		 <biostatCpx>1</biostatCpx>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>squishy</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+	</GeneDef>
+</Defs>
