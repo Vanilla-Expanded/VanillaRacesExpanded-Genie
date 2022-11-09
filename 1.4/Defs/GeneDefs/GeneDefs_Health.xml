@@ -54,7 +54,7 @@
 		<description>Carriers of this gene create special anti-bodies in their blood that slow down progress of any infection and disease, giving them more time to obtain medical care.
 		</description>
 		<iconPath>UI/Icons/Genes/Gene_SlowDiseases</iconPath>
-		<geneClass>VanillaGenesExpanded.Gene_DiseaseProgressionFactor</geneClass>
+		
 		<displayCategory>Healing</displayCategory>
 		
 		<biostatMet>-2</biostatMet>
