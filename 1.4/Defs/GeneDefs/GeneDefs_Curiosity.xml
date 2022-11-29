@@ -14,6 +14,12 @@
 		
 		<biostatMet>-2</biostatMet>
 		<biostatCpx>2</biostatCpx>
+		<modExtensions>
+			<li Class="VanillaGenesExpanded.GeneExtension">
+
+				<noSkillLoss>Shooting</noSkillLoss>
+			</li>
+		</modExtensions>
 		
 	</GeneDef>
 	
