@@ -28,7 +28,7 @@
 				</li>
 				<li Class="VanillaRacesExpandedGenies.IngestionOutcomeDoer_GiveHediff_Weighted">
 					<hediffDef>VRE_AntibioticsTolerance</hediffDef>
-					<severity>0.016</severity>
+					<severity>0.1</severity>
 					<divideByBodySize>true</divideByBodySize>
 				</li> 
 			</outcomeDoers>
@@ -48,7 +48,7 @@
 			<li Class="CompProperties_Drug">
 				<chemical>VRE_Antibiotics</chemical>
 				<addictiveness>0.005</addictiveness>
-				<minToleranceToAddict>0.25</minToleranceToAddict>
+				<minToleranceToAddict>0.8</minToleranceToAddict>
 				<existingAddictionSeverityOffset>0.20</existingAddictionSeverityOffset>
 				<needLevelOffset>0.9</needLevelOffset>
 				<listOrder>10</listOrder>
@@ -104,7 +104,7 @@
 		<description>A built-up tolerance to antibiotics. The more severe this tolerance is, the more antibiotics it takes to get the same effect.</description>
 		<comps>
 			<li Class="HediffCompProperties_SeverityPerDay">
-				<severityPerDay>-0.016</severityPerDay>
+				<severityPerDay>-0.066</severityPerDay>
 			</li>
 			<li Class="HediffCompProperties_DrugEffectFactor">
 				<chemical>VRE_Antibiotics</chemical>
