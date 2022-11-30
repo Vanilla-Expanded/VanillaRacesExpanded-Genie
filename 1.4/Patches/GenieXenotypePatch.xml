@@ -12,8 +12,8 @@
 			<li>VRE_Slow_Diseases</li>
 			<li>VRE_AptitudePhenomenal_Crafting</li>
 			<li>VRE_ElongatedHead</li>
-			<!--<li>VRE_Curiosity_Intellectual</li>-->
-			<!--<li>AddictionResistant_VRE_antibiotics</li>-->
+			<li>VRE_Curiosity_Intellectual</li>
+			<li>AddictionResistant_VRE_Antibiotics</li>
 		</value>
 
 	</Operation>
