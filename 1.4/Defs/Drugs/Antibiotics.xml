@@ -26,7 +26,7 @@
 					<severity>1.0</severity>
 					<toleranceChemical>VRE_Antibiotics</toleranceChemical>
 				</li>
-				<li Class="IngestionOutcomeDoer_GiveHediff">
+				<li Class="VanillaRacesExpandedGenies.IngestionOutcomeDoer_GiveHediff_Weighted">
 					<hediffDef>VRE_AntibioticsTolerance</hediffDef>
 					<severity>0.016</severity>
 					<divideByBodySize>true</divideByBodySize>
