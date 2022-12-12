@@ -296,6 +296,7 @@
   <ItemGroup>
     <Compile Include="DefOfs\InternalDefOf.cs" />
     <Compile Include="Harmony\HarmonyInstance.cs" />
+    <Compile Include="IngestionOutcomeDoers\IngestionOutcomeDoer_GiveHediff_Discriminating.cs" />
     <Compile Include="IngestionOutcomeDoers\IngestionOutcomeDoer_GiveHediff_Weighted.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

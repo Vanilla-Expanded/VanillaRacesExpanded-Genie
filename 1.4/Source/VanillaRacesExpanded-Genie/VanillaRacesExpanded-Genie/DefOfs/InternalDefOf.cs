@@ -11,8 +11,8 @@ namespace VanillaRacesExpandedGenies
     [DefOf]
     public static class InternalDefOf
     {
-       
 
-
+        public static GeneDef VRE_Immunity_VeryWeak;
+        public static GeneDef Immunity_Weak;
     }
 }
