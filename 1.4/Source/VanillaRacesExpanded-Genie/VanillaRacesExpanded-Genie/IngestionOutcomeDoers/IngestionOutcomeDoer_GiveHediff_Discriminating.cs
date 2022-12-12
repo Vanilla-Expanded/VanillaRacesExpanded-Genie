@@ -30,8 +30,8 @@ namespace VanillaRacesExpandedGenies
 			{
 				hediff = HediffMaker.MakeHediff(firstAlternateHediffDef, pawn);
 			}
-			if (DefDatabase<GeneDef>.GetNamedSilentFail("AG_Gene_VeryWeakImmunitypawn")!=null &&pawn.genes?.HasGene(DefDatabase<GeneDef>.GetNamed("AG_Gene_VeryWeakImmunitypawn")) == true 
-				&& pawn.genes?.GetGene(DefDatabase<GeneDef>.GetNamed("AG_Gene_VeryWeakImmunitypawn")).Active == true)
+			if (DefDatabase<GeneDef>.GetNamedSilentFail("AG_Gene_VeryWeakImmunity") !=null &&pawn.genes?.HasGene(DefDatabase<GeneDef>.GetNamed("AG_Gene_VeryWeakImmunity")) == true 
+				&& pawn.genes?.GetGene(DefDatabase<GeneDef>.GetNamed("AG_Gene_VeryWeakImmunity")).Active == true)
 			{
 				hediff = HediffMaker.MakeHediff(secondAlternateHediffDef, pawn);
 			}
