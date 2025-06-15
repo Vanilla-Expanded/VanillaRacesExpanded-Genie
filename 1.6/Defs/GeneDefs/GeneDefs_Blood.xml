@@ -45,6 +45,7 @@
 				<customBloodIcon>UI/Icons/Medical/VRE_BlueBleeding</customBloodIcon>
 				<customBloodEffect>VRE_Damage_HitBlueFlesh</customBloodEffect>
 				<customWoundsFromFleshtype>VRE_BlueWoundsFlesh</customWoundsFromFleshtype>
+				<customBloodSmearThingDef>VRE_Filth_BloodSmear_Blue</customBloodSmearThingDef>
 			</li>
 		</modExtensions>
 	</GeneDef>
